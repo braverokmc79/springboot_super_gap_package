@@ -1,0 +1,103 @@
+# ========================
+# 📦 Java / Spring Boot
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven
+/target/
+
+# Gradle
+/build/
+.gradle/
+!gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.loadpath
+.factorypath
+.apt_generated/
+
+# Spring Tool Suite
+.springBeans
+
+# ========================
+# 🌐 Node.js / React / Next.js
+# ========================
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist/
+build/
+.next/
+out/             # Next.js static export 디렉토리
+
+# Next.js
+.next/
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Testing
+coverage/
+jest-*.json
+test-results/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.bak
+*.tmp
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
