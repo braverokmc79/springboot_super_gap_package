@@ -1,4 +1,4 @@
-package kr.ac.macaronics.web.domain;
+package kr.ac.macaronics.web.user.domain;
 
 import jakarta.persistence.Embeddable;
 import lombok.Getter;

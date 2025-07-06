@@ -1,8 +1,7 @@
-package kr.ac.macaronics.web.domain;
+package kr.ac.macaronics.web.user.domain;
 
 import lombok.Builder;
 import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 import jakarta.persistence.*;
 import lombok.*;
